@@ -84,7 +84,7 @@ Captura 2: Subida de la Aplicación
 ![image](https://github.com/user-attachments/assets/09f4ebb3-9c88-469f-883e-7f707b23d292)
 
 ## Enlace de la aplicación
-[Enlace](https://www.amazon.com/gp/product/B0DS94RJNB)
+[Click Aquí](https://www.amazon.com/gp/product/B0DS94RJNB)
 
 ## Desarrollador
 
